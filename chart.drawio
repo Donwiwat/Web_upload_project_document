@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2024-01-20T11:34:12.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="j-_f7hwizcKuPVWyOuGy" version="21.2.1" type="device">
+  <diagram name="Page-1" id="ChXytX--Jzubu4ktHXtF">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XtNNFZqmIkK5XEUybWqK-1" target="oyJ9cbBwB_gHUuIf2C9G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtNNFZqmIkK5XEUybWqK-1" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-1" target="oyJ9cbBwB_gHUuIf2C9G-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-1" value="Reviewer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-2" target="oyJ9cbBwB_gHUuIf2C9G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-2" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-3" target="oyJ9cbBwB_gHUuIf2C9G-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-3" value="ส่งไฟล์โครงงาน project&amp;nbsp; เข้าสู่ระบบ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="360" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-5" value="เอกสารผ่านรีวิว อัพโหลดสลิปโอนตังค์" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="610" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-8" value="Track Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-9" target="oyJ9cbBwB_gHUuIf2C9G-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-9" value="Track status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="360" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-11" target="oyJ9cbBwB_gHUuIf2C9G-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-11" value="Download, เปิดในเว็บได้เลย" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="480" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-13" value="Approve/ Reject with comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-15" target="oyJ9cbBwB_gHUuIf2C9G-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-15" value="Create user reviewer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-17" target="oyJ9cbBwB_gHUuIf2C9G-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-17" value="คล้ายอาจารย์" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-19" value="Register in Admin/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-20" value="Register student by self&lt;br&gt;(Forget pw)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="960" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-21" target="oyJ9cbBwB_gHUuIf2C9G-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyJ9cbBwB_gHUuIf2C9G-21" target="oyJ9cbBwB_gHUuIf2C9G-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-21" value="Homepage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="860" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-22" value="USER , PW ของทุกคนไหม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-24" value="Login student, and ajarn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="860" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-30" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1050" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-31" value="Form การส่งเอกสาร" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1065" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-32" value="Form การส่งเอกสาร" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1140" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-36" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="870" width="115" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oyJ9cbBwB_gHUuIf2C9G-37" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="870" width="115" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
